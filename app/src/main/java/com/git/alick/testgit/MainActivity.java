@@ -11,9 +11,26 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.print("cxw");
+<<<<<<< d487df3342f799277e33679e1f9ce995dcedbf37
 
         //fuwuqo
 
 
+=======
+        System.out.print("cxw");
+        System.out.print("cxw");
+
+
+
+        System.out.print("mv");
+        System.out.print("mv");
+
+
+
+
+        System.out.print("mv");
+        System.out.print("mv");
+
+>>>>>>> sdfds
     }
 }

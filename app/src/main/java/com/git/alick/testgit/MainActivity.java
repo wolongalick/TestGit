@@ -17,5 +17,11 @@ public class MainActivity extends AppCompatActivity {
 
 
         System.out.print("mv");
+        System.out.print("mv");
+        System.out.print("mv");
+        System.out.print("mv");
+
+
+
     }
 }

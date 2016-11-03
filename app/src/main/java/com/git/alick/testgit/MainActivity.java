@@ -13,10 +13,5 @@ public class MainActivity extends AppCompatActivity {
         //sdfasdf
         //sdfasdf
         //sdfasdf
-        //sdfasdf
-        //sdfasdf
-        //sdfasdf
-        //sdfasdf
-        //sdfasdf
     }
 }

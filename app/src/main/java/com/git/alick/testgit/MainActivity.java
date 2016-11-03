@@ -11,22 +11,12 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.print("cxw");
-
-        //fuwuqo
-
         System.out.print("cxw");
         System.out.print("cxw");
 
-
-
         System.out.print("mv");
         System.out.print("mv");
-
-
-
-
         System.out.print("mv");
         System.out.print("mv");
-
     }
 }
